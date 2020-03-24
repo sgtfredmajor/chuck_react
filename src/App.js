@@ -8,7 +8,7 @@ export default function App() {
       <h1>Chuck 2020</h1>
       
 
-      <Quote quote="on the border"/>
+      <Quote/>
 
     </div>
   );
